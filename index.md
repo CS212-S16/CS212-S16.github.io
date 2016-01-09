@@ -7,7 +7,7 @@ title: CS 212 Site
 ## Spring 2016
 
 |Week|Topic|
-------------
+|----|----:|
 |1| Data structures|
 
 - Item 1
